@@ -55,5 +55,5 @@ roslaunch robot_arm_pkg check_motors.launch
 finally, I screenshot the result and put in pdf file.
 
 
-![arm](https://user-images.githubusercontent.com/107875617/185000008-1fddb204-e248-4201-a9f9-08275ca6a225.png)
+
 
